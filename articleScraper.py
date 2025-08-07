@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests, json, time, os
 
 # URL of the article to scrape
-url = "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
+url = "https://www.techradar.com/audio/spotify/i-dismissed-spotifys-ai-dj-for-years-heres-why-im-finally-warming-up-to-the-streaming-giants-most-divisive-feature"
 
 response = requests.get(url)
 if response.status_code == 200:
@@ -37,7 +37,7 @@ else:
 # print(content[:500])  # Print first 500 characters of content
 
 root = 'articles'
-filename = os.path.join(root, 'GuardianArticle.json')
+filename = os.path.join(root, 'TechRadar.json')
 
 quoteCleaner = lambda text: text.replace('\u2018', "'").replace('\u2019', "'").replace("\u201c", '"').replace("\u201d", '"')
 
