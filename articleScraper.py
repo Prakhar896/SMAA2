@@ -37,3 +37,15 @@ else:
 # print(author)
 # print(publication_date)
 # print(content[:500])  # Print first 500 characters of content
+
+import pandas as pd
+# Create a DataFrame to store the scraped data
+data = {
+    "title": [title],
+    "author": [author],
+    "publication_date": [publication_date],
+    "content": [content]
+}
+df = pd.DataFrame(data)
+# Save the DataFrame to a CSV file
+df.to_csv("npr_spotify_ai_dj_article.csv", index=False)
