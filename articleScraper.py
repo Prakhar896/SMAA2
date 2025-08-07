@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
-import requests, json, time, os
+import requests, json, time, os, sys
 
 # URL of the article to scrape
-url = "https://www.techradar.com/audio/spotify/i-dismissed-spotifys-ai-dj-for-years-heres-why-im-finally-warming-up-to-the-streaming-giants-most-divisive-feature"
+url = "https://mixmag.asia/read/spotify-launches-new-ai-feature-dj-radio-commentary-tech/"
 
 response = requests.get(url)
 if response.status_code == 200:
@@ -30,6 +30,7 @@ if response.status_code == 200:
     print(f"Content: {content[:500]}...")  # Print first 500 characters of content
 else:
     print(f"Failed to retrieve the article. Status code: {response.status_code}")
+    sys.exit(1)
 
 # print(title)
 # print(author)
@@ -37,7 +38,7 @@ else:
 # print(content[:500])  # Print first 500 characters of content
 
 root = 'articles'
-filename = os.path.join(root, 'TechRadar.json')
+filename = os.path.join(root, 'Mixmag.json')
 
 quoteCleaner = lambda text: text.replace('\u2018', "'").replace('\u2019', "'").replace("\u201c", '"').replace("\u201d", '"')
 
