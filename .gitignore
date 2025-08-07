@@ -2,5 +2,4 @@
 virt/
 __pycache__/
 .DS_Store
-*.csv
 reference/

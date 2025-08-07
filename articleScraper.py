@@ -1,10 +1,8 @@
-# Scrape the article at https://www.npr.org/2024/11/13/nx-s1-5184493/spotify-ai-dj-music#:~:text=The%20New%20Yorker's%20Sanneh%20said,Chloee%20Weiner%20mixed%20the%20audio. with BeautifulSoup
-
 from bs4 import BeautifulSoup
-import requests
+import requests, json, time, os
 
 # URL of the article to scrape
-url = "https://www.npr.org/2024/11/13/nx-s1-5184493/spotify-ai-dj-music"
+url = "https://www.theguardian.com/technology/2023/mar/01/spotify-ai-dj-service-testing"
 
 response = requests.get(url)
 if response.status_code == 200:
@@ -38,14 +36,26 @@ else:
 # print(publication_date)
 # print(content[:500])  # Print first 500 characters of content
 
-import pandas as pd
-# Create a DataFrame to store the scraped data
+root = 'articles'
+filename = os.path.join(root, 'GuardianArticle.json')
+
+quoteCleaner = lambda text: text.replace('\u2018', "'").replace('\u2019', "'").replace("\u201c", '"').replace("\u201d", '"')
+
+title = title.encode('utf-8').decode('ascii', 'ignore')
+author = author.encode('utf-8').decode('ascii', 'ignore')
+content = content.encode('utf-8').decode('ascii', 'ignore')
+
+
+# title = quoteCleaner(title)
+# author = quoteCleaner(author)
+# content = quoteCleaner(content)
+
 data = {
-    "title": [title],
-    "author": [author],
-    "publication_date": [publication_date],
-    "content": [content]
+    "url": url,
+    "title": title,
+    "author": author,
+    "publication_date": publication_date,
+    "content": content
 }
-df = pd.DataFrame(data)
-# Save the DataFrame to a CSV file
-df.to_csv("npr_spotify_ai_dj_article.csv", index=False)
+
+json.dump(data, open(filename, 'w'), indent=4)
