@@ -1,0 +1,24 @@
+Title: Will Spotify's AI DJ make you listen longer?
+
+Content:
+Chloe Veltman Spotify AI DJ plays songs based on data it gathers about users' personal preferences and introduces some of them with a warm voice, similar to a traditional radio DJ.Spotifyhide caption Humans want fundamentally incompatible things from music services.
+"We want to listen to all the stuff that everyone likes, but also only the stuff that we like," saidNew Yorkerstaff writer Kelefa Sanneh, the author ofMajor Labels: A History of Popular Music in Seven Genres.
+"And we want it to be broad and social, but also narrow and personal." Sanneh said this problem is very hard to solve.
+But that's not stopping Spotify from trying — with itsAI DJfeature.
+The AI DJ, which the music streamer began rolling out nearly two years ago and is still in beta, builds on Spotify's long track record of providing listeners with personalized playlists based on individual data.
+Spotify has millions of listeners, and a staff of real human beings couldn't voice contextual recommendations for each one of them.
+But AI can.
+"This is your personalized DJ just for you," saidZiad Sultan, Spotify's vice president of personalization.
+Sultan said the DJ feature goes further than creating personalized playlists: For English-speaking listeners, it uses an AI voice known as "X" to tell the listenerwhyit is making the selections it is making.
+(The streamer also offers a Spanish language AI DJ, "Livi.") Spotify employee Xavier Jernigan is the voice behind X, the streamer's English-language AI DJ.Spotifyhide caption "X is this incredibly realistic but also warm voice that makes people want to engage and listen to the DJ and follow their recommendations," Sultan said.
+The company's research suggests these occasional voice prompts encourage users to discover new or long-forgotten music and so listen longer, said Xavier Jernigan, the Spotify employee who is the talent behind X.
+ Spotify declined to share its research.
+"We know through our data that when people hear stories about the artists, about the songs and know the why as to why we recommended that song, they're less likely to skip it," said Jernigan.
+"It's about storytelling.
+It's about human connection." Others question whether this kind of context is necessary.
+"Our goal is to understand the user well enough, and understand the music well enough, that there aren't those sorts of necessities to have to contextualize it to you," said Joe Inzerillo, the chief product and technology officer at SiriusXM, which owns Spotify competitor Pandora.
+That's why Pandora doesn't have one.
+The New Yorker's Sanneh said he sometimes finds the Spotify AI DJ to be distracting or baffling — like when it introduced a block of songs by describing them as "music that a lot of people seem to think is good for cleaning their house to," and then proceeded to play, among other titles, Shakira's "Si Te Vas" and Celine Dion's cover of  "River Deep Mountain High." "And so now I'm thinking about Celine, and I'm like, 'Do people clean their house to Celine Dion?
+'" Yet some people quite like the Spotify AI DJ — including DJ Umami, a real, human DJ who spins on the radio and in clubs, and is a resident DJ for the San Francisco Giants.
+"It plays my likes on shuffle based on when I actually listen to this type of music and tempo and genre and all of those data points," Umami said. "Then they'll throw in a couple songs that they think that I would like.
+And I love that." Jennifer Vanascoedited the broadcast and digital versions of this story.Chloee Weinermixed the audio.
