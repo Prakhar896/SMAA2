@@ -1,0 +1,10 @@
+How to Optimize my recommendations
+I have been enjoying the AI DJ feature latley but you can really start to notice the limitations after listening to it for awhile. I love it, and have been using it daily, but there are some things that i wish were more intuitive.
+
+Firstly, how do i get Spotify to recognize that I dont love someone that theyre pushing on me. There are artists that i get recommended both in DJ and radio mode. I listen to heavy music quite a bit, and Spotify thinks i love 'Johnny Booth', which, theyre fine, but i dont want to listen to them so much.. i feel like older verisons of Spotify had a thumb down button, which would be helpful because i dont want to block Johnny Booth but i I just wish i could tell spotify to chill.
+
+Like when i listen to 90's alternative radio they think, 'ok let us pepper you with the foo fighters'. and i enjoy the foo fighters but i want to lessen the amount Spotify suggests by 75%
+
+I know, I can track forward. this isnt the biggest deal. but I work at a desk, and an ideal situation would be that over time my spotify will be super calibrated to my taste, thus less distractions during the workday. Its more a productivity concern for me.
+Comments:
+I’m fairly certain that skipping a song feeds into the algo. You can also go into your queue and remove song and artists you’re not interested in hearing. This action too may help train the algo.

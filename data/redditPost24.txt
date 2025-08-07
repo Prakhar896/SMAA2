@@ -1,0 +1,165 @@
+Why is shuffle still absolute garbage?
+Seriously, it's been years now that we, the Spotify community, have been begging for a shuffle that does not play the same song over.and.over.and.over.and.over.again. The algorithm of "we know how much you like this song, so we wan't you to hear it as often as possible!" is literally the worst way to go about about shuffling songs.
+
+I'm literally already so burntout and annoyed of hearing the same songs come up on shuffle in my Liked playlist that I don't... like them anymore :'( 
+
+Please, for the love of god Spotify, just adopt a "first in, first out" mentality when it comes to the shuffle feature, such that a song won't repeat in shuffle mode until AAAALL of the other songs that follow it in a playlist have been played!
+Comments:
+It would be nice if there was a built in Static Shuffle setting where you could shuffle the actual order of all songs in a playlist.
+Dude i have listened to a song like 6 times in a day, when i was building a new playlist. I also hate how when you pick a particular song it will repeat and repeat and repeat. Instead of change songs
+I have 155 hours of music on my playlist. 6 days straight of music. There are songs that play every single time I listen and songs that very rarely, if ever, play. It also seems to play specific artists way more often too. I had to delete some because I got so sick of hearing them.
+I've resorted to listening to mine in ABC order, and I've realized how many songs I've missed hearing!
+And the DJ, don’t even get me started! I have hundreds of liked songs it never plays.
+I hate this shit, dude. I will have a multiple song long playlist, and shuffle will randomly pick like 10 songs from it and only play those in a set order. I deadass checked it once, because I thought I was going crazy. I just hit the next song button a bunch of times one time and it for sure was only shuffling through 10 of the songs on a playlist that is WAY longer than 10 songs. You would think shuffle meant THE ENTIRE PLAYLIST. Not some random selection of a couple of songs.
+I’ve been hearing complaints like this for years and honestly don’t understand why. I’ve got over 1500 liked songs and I rarely hear repeats. Most of the time I actually do it’s because of sync issues between my phone and laptop.
+I’d love to strangle that AI DJ!
+Spotify feels like it's trying to make me hate songs I've loved my whole life. I like a handful of Flyleaf songs, but my god, I dont want to hear 3 Flyleaf songs every time I listen to music when I have over 2000 liked songs and only 6 of them are Flyleaf.
+its the easiest feature to fix in history and spotify refuses. give me an option for true random spotify!
+Fr, it plays the same 20 songs over and over again until I undo shuffle, hit shuffle again and then it does a different 20 songs… I’m about to go back to radio
+I learned on another thread that Shuffle is based on your Liked Songs. I used to hate it too but recently seems way better at playing across my liked songs. BUT I don't really use playlists, I just Like songs with total of 16,912 songs to date 😅
+I've had this issue but it turns out that it was the auto mix setting. It tries to be a DJ and match vibes but it ends up trucking itself into a cycle. Turn that off and it should be fine
+This!
+I made the jump to tidal finally. Just try another service out. It's worth it. They're cheaper and better. I got over the remote control feature in a week. 
+I‘ve been using spotify for 4 years now. My premium ends in 25 days and I think I won‘t be using Spotify anymore. The algorithm was perfect a few years ago, now it‘s the biggest rubbish. It plays my 30 most listened songs and when listening to an artist, it plays like 20 songs and then goes to „recommended for you“. I don‘t enjoy listening to music anymore and will probably change to apple music. I am beyond disappointed
+I have resorted to playing my [last.fm](http://last.fm) recommendations playlist in Spotify as I have scrobbled there since 2011. It gives a little more variety. Spotify literally drives me insane with the same songs over and over.... I did try out Tidal and really enjoyed it too. It surprised me as it even mixed in some live versions of songs I like. The only issue was that my family weren't happy to move over 😢
+I agree with this and it's making me want to leave Spotify. The discovery is horrible!
+
+1. Even though they have a specific place to put new music, Discover Weekly, they still show a new release section on home and do pop ups for new releases! Stop interrupting me and just put it where it belongs. It also makes no sense.   
+2. When you play any radio or a song or albu stops playing and goes to autoplay it just continually plays the same tracks over and over. If you listened to spotify you'd think the catalog is 1000 songs total. It's boring and useless.  
+3. There are zero settings to dial in the level of discovery you want.
+Not kidding my shuffle has been playing the same shuffle for a few weeks now. I’ve gone to click other songs and look at the queue and it’s still the same playlist over and over again like what is going on. I got a better shuffle when I just took the shuffle off and listened to the order in which I liked the songs 🤦‍♀️😂
+THISSSSS!!!! It's so frustrating and dumb. And while we're at it, can we get fewer commercials in podcasts? I'm seriously considering abandoning Spotify...
+I would love more control over what I'm listening too. I think that it is as simple as this though.  They are only investing in flashy stuff they think will drive more subscriptions. They're less worried about current subscribers leaving than they should be.  I might leave after having been a subscriber for almost 15 years.
+I wish you could rate songs on a playlist. Like 1-5, 1 meaning I like it, but don’t want to hear it frequently, and 5 meaning I love it and won’t skip it.
+I think the free version shuffle is better than the premium version shuffle that's my opinion
+I found I had to shuffle my playlists to get over this issue. 
+[used this tool ](https://stevenaleong.com/tools/spotifyplaylistrandomizer)
+
+It doesn't work on your liked songs list though, I had to make a copy of that and shuffle it.
+You can shuffle the playlist itself and then listen with Spotify's shuffle turned off, using an altruistically free utility I created.  Click on Shufflizer at
+
+[https://www.bullcrane.com/](https://www.bullcrane.com/)
+
+Shufflizer has options to keep songs you want in the first positions, prioritize songs from artists not earlier in the playlist, and place recently heard songs at the end.
+I've made about 30 playlists all at least 5-11hrs long in my spotify over time all fitting my different moods, and then as I play them I'll put on smart shuffle and it'll add songs I haven't heard or added. The more you know and explore all genres/artists you know it should give you variety. Also knowing how to turn off certain artists you don't want popping up at all.
+This bothered me as well with Spotify and in the last few days I've given Tidal a chance. But it turns out the shuffle is still really bad, if not worse.
+The reasons are due to statistics and the way our brains work. 
+
+I'll use an example from a user in this thread, who boasted hearing duplicates on their playlist that was 155(!) hours long. Assuming 4 minutes per song, that's ~2325 songs total. If you open up that playlist and hit shuffle for two consecutive days, and listen to exactly 100 songs without skipping, you will have roughly 4 duplicate songs (~2-6 on average) between each listen of that playlist.
+
+Listen to that playlist enough, and your human brain will pick those patterns out over larger stretches of time. In fact, the *more often* you listen, the more likely there will hear duplicates. For example if you shuffle the 155-hour playlist every day for a week, only listening to 100 songs, you will hear ~115 duplicate songs during that time, because your memory will be stretching back over all the previous days. 
+
+Listen to that playlist every day? Have a much smaller playlist? Well, you're probably going to start hearing even more duplicates and likely coming to reddit to complain.
+
+The human brain is a powerful organ, but it is programmed to pick out patterns. It's a product of evolution, and crucial to our survival. Everyone that comes to these threads is likely picking out these patterns over time and ignoring the vast majority of non-duplicate songs, because that's just how our brains work. It's not your fault. You're only human!
+
+Sources:
+
+* [Math.](https://g.co/gemini/share/863c606b60a9)
+* [Brain.](https://www.psychologytoday.com/us/blog/singular-perspective/202105/why-the-human-brain-is-so-good-detecting-patterns)
+IKR?? I thought that 'smart shuffle' was going to replace their typical method, and then we would have the newer version replace the normal shuffle, but no... they just want me to resent my favorite songs
+I've never had this issue, all I've noticed is that the shuffle becomes really predictable. I shuffle a playlist too much, and eventually I'll just have a feeling that I know the next song and, what do you know, I do. This is a really interesting issue, though. I have the FIFO kinda thing you're looking for.
+clear your cache bro
+Are you sure this is really a thing?
+
+Test it. Make a playlist of five short songs. Hit shuffle and see if it plays all five songs before stopping. It will -- you can even see the queue of the songs it is going to play.
+
+I think mostly when people complain about this they mean that every time they shuffle a particular playlist it tends to play the same songs.
+they like trump and that guy does not shuffle
+I don't understand any of the complaints I ever hear about Spotify. I never have any. All I do is create my own playlists, make sure they're long enough so Spotify doesn't add in its own recommendations. I never listen to any Spotify made playlists, jist make my own with exactly what I want to listen to, never any repeats on shuffle, and I'm good to go.
+Shuffle works beautifully?!
+
+Try a bigger playlist?
+get mp3s put them on itunes wooow amazin shuffle 😀
+You are welcome to try my Shufflizer utility.  It is altruistically free.  Click on Shufflizer at
+
+[https://www.bullcrane.com/](https://www.bullcrane.com/)
+This. I used to manually move songs around randomly to “shuffle” them. Find a new band, put 30 of their songs in, and move them around so they were evenly spaced out through the entire playlist. It was such a hassle.
+There’s a setting called Autoplay Similar Content under Playback in settings that you may have set to off. Check that and see if it fixes it.
+I have a 250-hour playlist I have curated over a decade.  I use a utility I wrote that shuffles the playlist itself and then I listen with Spotify shuffle turned off.  It is altruistically free and available to all.  Click on **Shufflizer** at
+
+[https://www.bullcrane.com/](https://www.bullcrane.com/)
+
+It does work on a phone, but try it on a tablet or laptop for the best experience.
+
+It can only shuffle playlists you have created.
+
+It has options to place recently heard songs at the end, and to prioritize songs by artists not placed earlier in the playlist.
+Yes!!! Me too! It's so silly though that we have to come up with these workarounds! If only to simply hear those precious songs we savor but that are never shuffled into the musical deck of cards, for some reason!! Ugh :'(
+And it plays artists with hundreds of songs in your liked songs, and tells you it's a new artist to you!
+IDK if it's improved at all since the dj feature was released but I tried it at release and it was so bad it actually made me dislike the entire Spotify experience.
+
+
+It was FAR too random and really needed the ability to DJ for a specific mood/event. I tried it at the gym and would start with a few good new songs. Then I'd get Disney hits (toddler...). Then I'd get "you listened to this a lot in 2012" classical from when I was studying for the bar exam. Then adult contemporary. To make it even worse, it would give me roughly the same rotation every time I tried it.
+
+
+Gym aside, I can't imagine any situation where such a completely diverse and clashing set of songs would be appropriate or desired. Like...when are you going to have the exact same crowd banging to explicit rap then bopping to Let It Go and I Am Moana?
+Yup, yup, aaaand BINGO.
+It's not repeats whenever you shuffle. It's repeats in what it often shuffles to. Shuffle has a bias on songs that you play more often and are more likely to play those. It's a fucking annoying algorithms that I barely get to listen to songs I haven't listened much to.
+Yeah I have issues with Spotify but I've not had this particular one.
+Same. I have a ton of playlists, including a master one with thousands of songs. I can go weeks without hearing the same song twice.
+42 minutes later and another flyleaf song has played
+If you do, don't go to Apple Music! It is dreadful!
+Thx for the recco! Unfortunately my gripe is with Spotify not doing anything to fix/update the built-in shuffle. It would suck to have to use a third party to fix this one, seemingly tiny issue!
+Thanks, but I really want this to not have to rely on a third-party app to simply do the most mundane thing ever, I feel. This really all is on Spotify to fix right now.
+Interesting. I've been SO much happier with Tidal's shuffle algorithm. I still just yearn for Rdio to come back.
+You're not wrong, and thank you for all that data to back up the frequency of recurring patterns. The problem is that I can hit shuffle on the same playlist over the course of multiple days of the week, and the same exact song (or songs) will often play within the first 10-20 tracks that are shuffled.
+
+What I'm getting at here is that shuffle should make it so we can cycle through ALL the different songs in our playlist without ever landing the same song in that whole sitting/cycle. Like, allow us to get through all the songs we haven't heard once in this playlist, before presenting us with the same songs again.
+Omg, don't even get me on Smart Shuffle... I fervently wish there was a way to permanently disable it as an option.
+That's basically part of the issue I'm describing: You're hearing the same song, or pattern of songs, over and over again without ever hearing the unplayed backlog of songs in the playlist. :/
+I've done that repeatedly already, both on phone and on desktop. No dice.
+Your last sentence is exactly my point. I have a 400 song playlist and I think I'll only ever hear around 20% of all the songs in there because they just keep playing over and over. The rest are never added to the shuffle.
+I have a 36 hour video game soundtrack playlist. I heard the same song 4 days in a row on each shuffle
+I have a 3000+ song playlist. The shuffle doesn't shuffle at all. Plus it will only "shuffle" 40 songs at a time before repeating. I have to listen to my playlist straight through and just randomly scroll to a section I haven't heard in awhile to get any variety.
+The playlists I've used it on are 400 songs, minimum O_o The same exact song will repeat no less that 15-20 songs later sometimes!
+That's only after your playlist runs out, it doesn't affect shuffle within a playlist.
+Create post about this, if you haven't done so yet. Just tried it out and it's really brilliant idea and even better execution.
+Your brain is biased to pick out patterns. So when you hit shuffle and hear the same song you heard last time you did that, you think that shuffle is somehow failing. But in reality its just a coincidence. You are likely dismissing all the times you shuffled and didn't hear that song, because it didn't annoy you.
+Did you not read my comment? I rarely hear repeats full stop. Doesn’t matter how I’m shuffling, I RARELY HEAR REPEATS. 🤷‍♂️
+It's not a Spotify issue, it's a skill issue
+
+These kids never used Pandora
+Noted. Thanks! I'm thinking about YouTube music or Tidal. Do you have any experience with those?
+Absolutely. Years ago I tracked all the plays from my liked list that I left playing at work over the weekend into a spreadsheet, some were played loads and others were left unplayed so it backed up my feeling that I was getting too many repeats. You're right it does seem like an easy fix, give the tracks a number and play a random number each time.
+But it's not like I'm not hearing every song. I am hearing every song, it's just in a consistent order. Isn't that what you're talking about?
+Ok I see, yes Spotify shuffle definitely favors the songs that Spotify has to pay less money for and the ones it thinks you'd like.
+You need to Like all the songs I think.
+400 songs is tiny...imo
+
+My favorite list has almost 8600 cuts....shuffle works great at my house.
+Mine just repeats the playlist even with that option on.
+Oh yeah, I was just addressing the playing the same song over and over.
+Glad to hear that Shufflizer is working well for you!  I did create a post a year or so ago:  [https://www.reddit.com/r/spotify/comments/17hr8mj/shufflizer\_shuffle\_your\_playlist\_while\_keeping/?utm\_source=share&utm\_medium=web3x&utm\_name=web3xcss&utm\_term=1&utm\_content=share\_button](https://www.reddit.com/r/spotify/comments/17hr8mj/shufflizer_shuffle_your_playlist_while_keeping/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+Your brain also has really good pattern recognition and can easily distinguish when shuffle plays a fucking song it always plays from a thousand song playlist. Idk what the fuck you guys are smoking trying to defend a Multi-billion dollar company on an issue with a ton of history of complaints about the shitty shuffle issue.
+No it's not.  Shuffle will literally play the same few songs in the same order when I go to work and then when I go back home. And there's an obvious bias towards songs recently added or that you play more often.
+That may be true. But when I downloaded all the songs that are on my playlist to put on an mp3 player and heard a song I legitimately forgot about since I hadn't heard it in YEARS, it's not pattern recognition at fault.
+Nah, that's not the case for me. For instance, Gaga released her new album about a month ago. I've listened to it a lot and now my shuffle is constantly playing other Gaga songs whereas I rarely heard them before last month. [Last night I heard 4 different Gaga songs driving to and from my parents in a playlist of 1500 songs, including one of the new ones.](https://imgur.com/cfOZ4U1) 
+
+There's definitely something going on behind the scenes to make you listen to a song or artist you've recently listened to. 
+
+[Spotify themselves posted a blog article about it and how they believed users did not want true randomization for playlists]
+(https://web.archive.org/web/20231121143336/https://engineering.atspotify.com/2014/02/how-to-shuffle-songs/)
+[deleted]
+That's not true. I would have loved to have your Spotify experience when i was using it. I had over 10,000 songs in my library and every time I would get on, even after freshly shuffling the playlist/queue it would still play the same 5-10 songs over and over again, often in the same order, but always in in proximity. That's statistically impossible, especially when you have playlists with hundreds of songs in them like I did. And Pandora is a completely different service.
+Tidal is great! But I'm an audiophile so I'm biased
+That's where our issues diverge, then. There are countless songs I have yet to hear played a single time when I shuffle a playlist :/ sometimes it feels like they're not even in the playlist, but they are! They're just never once touched by shuffle.
+I pray to god, if you find a song that repeats itself too often in a playlist that big, please open up a lawsuit against Spotify.
+You smartly have the repeat option turned on. If you turn it off, this feature will activate at the end of your playlist.
+Your brain will remember that repeated song but you are conveniently omitting the hundreds or thousands of other songs that weren't duplictaes. I'm not defending anyone or anything, just trying to explain what you are likely experiencing.
+Thank you for your intelligent and insightful reply.
+I'm an audiophile, too, and a musician. I've heard great things about tidal from another musician friend, as well.
+Where would that option be. I don’t see it
+I highly disagree. I had about 3000 liked songs, and Spotify would play about the same 50 every single time. It was so bad that I had to remove the songs from my playlist. It's not about my brain remembering certain songs while ignoring others, the algorithm is just shit. I'm sure cause I used a 3rd party to shuffle once, and I heard songs I had completely forgotten about
+Youtube music is good!I have heard good stuff about Tidal but never looked into it too much!
+Just part of your playback controls, there should be a play, previous, next, shuffle, and repeat button
+You can disagree all you want, but the fact is that statistics and psychology say you're wrong. Most folks in here are likely experiencing some form of cognitive bias (such as [negativity bias](https://thedecisionlab.com/biases/negativity-bias) and [salience bias](https://thedecisionlab.com/biases/salience-bias)). It's entirely normal and just part of how our brain works. The key is understanding when it happens and how to avoid jumping to conclusions when it does.
+Oh dear lord. Cognitive bias exists, but that doesn't mean ALL of our experiences are shaped by it. The article you provided gave an example of perception of increased crime when there isn't, in fact, any increase. Does that mean crime NEVER increases, and it's always salience bias? That's how insane you sound.
+
+Complaints about the algorithm have been numerous across the years, but no, we must all be experiencing some sort of cognitive bias. There have been 3rd party tools that shuffle playlists better; objective proof that spotify's algorithm is horrible? Nahhh can't be, it must be duh cognitive bias.
+Literally all of us experience cognitive bias every day. So yeah, it's almost certainly one of more forms of cognitive bias at work here. But on top of that, statistics proves that you'll hear duplicates over time, and increasingly so the more you listen. So not only can we predict that's what is happening, we can show it with math. 
+
+Science and math provide the only logical explanation for what you and others are reporting via your anecdotes, and it's completely normal and easy to demonstrate. Your subjective opinions don't really change any of that.
+Again, existence of cognitive bias does not mean it influences all our experiences. I feel like I'm talking to a wall. You have no proof this is what’s happening, you are literally just making an assumption. Did you just recently learn about cognitive biases and just want to show off your knowledge or something? 
+
+The same songs repeating every time I press shuffle on my playlist is proof enough. But there's more objective proof that the spotify shuffle is broken. One that I've mentioned since the start of this conversation and one that you've conveniently ignored: **3RD PARTY TOOLS THAT ACTUALLY FUCKING WORK**

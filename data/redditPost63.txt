@@ -1,0 +1,105 @@
+[Spotify App] Personalised radio station for Spotify with an AI radio presenter.
+Hey folks,
+
+I just thought I'd share something I'm working on here. Its a radio service built on top of Spotify that's hosted by Rad, an AI radio DJ and its called Radiant!
+
+Rad will pick songs appropriate for you in the now, announce what's coming up, tell you about the traffic on your commute and read you the news and weather!
+
+Its currently in beta on iPhone only for the moment and naturally requires a Spotify premium account to use.
+
+If this sounds like something that would interest you, visit [https://getradiant.app](https://getradiant.app) and give it a whirl!
+
+Feedback obviously welcome 😁
+Comments:
+Would have loved to try but I'm just an Android pleb. Good luck!
+This is cool, but if I may make a suggestion. I think that rather than just having a single station that I'm managing by adding and removing artists, it would be better if I could have multiple stations who's parameters I set up. For reference, the [Spotify station's app](https://apps.apple.com/us/app/spotify-stations/id1453043471) basically lets you create multiple stations based on artist seeds and you can swap between them with a swipe, as opposed to having to manage a single station who's seeds are based on my most listened to artists.
+Just installed because Im a big fan of radio stations they just dont play music I like most of the time. A little bit of feedback: I think the AI may talk a little too fast if there is anyway to match the average speed of radio hosts irl that would make it even more authentic!
+This sounds cool. I'm on android though. Otherwise I would try it.
+I am loving this app! I have shared it with my Twitter and Facebook followers. I did try to follow your Twitter account, but there does not seem to be anything on it.￼
+
+Edit: I fucked up the Twitter account. It is @getradiantapp
+This is a really interesting idea.  However, I think it's coming from some false assumptions about what people want from radio, and why we sometimes turn to it instead of Spotify.  Personally I have both Spotify and XM radio subscriptions, and use them both at different times, depending on what I'm looking for.  However, this app could not replace my XM subscription.  But an app that could, powered by AI, is an attempt worth making!  So take my comments not as criticism of you or your basic idea, but rather some reflections on why I use XM Radio, and why this app doesn't do anything to replace that use case.  Also, as a disclaimer, I'm another blind person.  So my feelings on these matters might be both stronger than and different from yours.  
+
+First and most importantly, the mix.  The regular Spotify app, while it tries to equalize the volume between songs, does a really basic and terrible job.  It also has no equalizer, to smooth out the frequency ranges of different songs recorded in wildly different places by wildly different people.  And the way it crossfades just isn't that useful. When I've dedicated myself to listening to music, that's absolutely fine. I want to hear the song, exactly as the artist intended.  But when I'm listening in the background, especially while doing mentally intensive tasks, I don't want to be riding the volume and treble knobs with every song change.  So I turn to XM Radio; while I know their studio engineers will make every song I hear sound bland as hell, I can trust that I'll never have to make any adjustments, and a surprising acoustic change won't jerk me out of whatever I'm working on.  Your app, however, solves none of these problems.  Every song comes in at a different volume, and with a different sound.  As well, because you don't even do basic crossfading, I'm constantly jerked back and forth from music, to complete silence for several seconds, to talking, to totally different sounding music, to more silence, etc.  This winds up being even worse than the default Spotify app for background listening.  
+
+Secondly, the DJ content.  News and weather are things that I either want to know, or don't.  If I do want to know, I'll look up the news and weather on my phone.  If I don't want to know, timely information like this in the background is distracting.  It would be far better to give biographical info about the next or previous artist, a bit of information about the album, maybe say something if the band is coming to my city on tour soon.  Otherwise, stick to bland semi-interesting content (cat facts, maybe?).  If something grabs my attention, it's a delight.  But if it doesn't, it's not distracting.  I'm not an expert on any of this stuff, though.  But there seems to be some templates that radio programmers/DJ's follow here, that could be easily replicated by an AI.  
+
+Thanks to Satellite radio, voice tracking, and national syndication, most radio might as well be run by an AI anyway.  An app like yours could bring some much needed layers of personalization to an industry that's currently just serving the lowest common denominator.  I don't think it would be a huge challenge to create an AI that can correctly equalize and mix everything, and Spotify and other websites with API's have enough info for an AI DJ to pull from.  But the days of traffic and weather radio are, I think, mostly dead and gone.  Focus on providing the ultimate lean-back, background listening experience, and you'll really have something.  
+
+Heck, if you can get it right, you could probably sell it to existing radio stations.  With Google's recent demos of human sounding text to speech, I'd be shocked if clear channel and others aren't already working on something like this to replace the few remaining humans who work for them.
+
+Edit: Yup, this is a thing.  https://www.businesswire.com/news/home/20180802005710/en/iHeartRadio-Launches-First-of-Its-Kind-AI-Technology-Deliver-Unparalleled
+You can now share your two cents and guide the development of Radiant directly! 
+
+[https://trello.com/b/vAHDLoRK/radiant-ideas](https://trello.com/b/vAHDLoRK/radiant-ideas) simply join the public Trello board, comment with your ideas under the first card in the ideas bucket or let us know what you think of the ideas listed, once and idea gets enough feedback it'll go into the good, bad or must do bucket and then move into development, you'll also be able to see what features have been completed and are included in the app by looking at the 'done' list!
+
+Looking forward to your input!
+I would be very interested but when I tried to download it, it's saying that I need an apple account. Not a Spotify one. I'd be on this like hot cakes if it was for Spotify.
+Ahh I’m sorry, if people like it on iOS I’ll bring it to Android and let you know!
+
+This is excellent feedback! I'm going to throw that exact idea around the table and see what people think. I for one like it, each station could have their own radio host too!
+
+The only reason I didn't do this from the start is I wanted a totally lean back experience. I wanted it to intelligently pick for me but having it more inline with seperate radio stations makes a lot of sense to me.
+Excellent comment, I’m actually working on that right now, I’m going to spend some time today getting the cadence, pace and intimation of Rad to match a human DJ. You’ll see a push with these changes tomorrow!
+
+What’s your favourite radio station (FM or Xm or whatever) and who’s your favourite DJ? Would be great if have another datapoint to compare and contrast 😁
+
+Thanks again for the feedback, really really useful.
+I've released an update to the app with a totally redone speech engine, let me know what you think of the cadence and breaks in the speech. 
+
+I have a feeling it was that all of the sentences and words running together is what caused it to sound fast, I've done tweaking around that so see if that works!
+Yeah i'm sorry about that, Android is on my radar for the future, just need to make sure people like the iPhone version before I go to work building it for Android phones.
+Thank you very much!! Very much appreciated! And yep, we'll start rolling out updates on Twitter from Monday onwards! So follow us anyway and you'll start seeing tweets from Rad very soon 😀
+It’s late here in Ireland so I’ll need to give this a proper read through tomorrow rather than my current cursory scan, but man, despite tearing me to shreds in places, there is a lot of really fantastic information I can use to build a better application. 
+
+I really appreciate your comments on audio mixing and equalisers because that’s something relatively easy I can add to the experience.
+
+At the risk of being slightly offensive, you being blind offers insights Into the core listening experience in a way that I never could. Your insight is uniquely valuable and I appreciate it in ways I struggle to describe. I’ll be taking all feedback (every last bit) directly to heart to craft an experience that is a more appropriate XM killer.
+
+Thanks for taking the time to write all of this. It means the world to me and is super super helpful in the development of this app.
+
+Awesome stuff.
+This post is super super out of date now sadly, we were forced to drop our support for Spotify. I actually did an interview on it late last month: https://killthedj.com/radiants-vs-spotify-interview/
+Personally I like the BBC 1 hosts, NPR’s morning briefing podcast’s hosts, Ryan Seacrest, and Elvis Duran. Another thing is having the option to choose Celsius or Fahrenheit for weather because i am an American and I have no idea what 2C is haha. Have you considered having the DJ also work with playlists? I think the playlist idea would be sweet because it would just cycle through the already existing user’s public playlist songs!
+
+Edit: Grammar
+Are you planning to post this elsewhere and read it?
+I am a blind iPhone user and use voiceover. Your app is accessible out of the box. Keep up the good work!￼￼
+I just took the beta for a test spin, the newest one you released this morning.
+The elements on the screen are reading their label names, not what you are intending to convey. For instance, I see with voiceover current time, current day, artist name, song name. To test this out, you can turn on voiceover and run your finger down the screen and you will hear what I’m talking about.￼
+Omg that was a very enlightening read. As the article mentions, I also think they executed their AI DJ (as it currently stands) pretty poorly which is what prompted me to seek out some kind of 'add on' and find this post in the first place. Their current dj is essentially a glorified perpetual discover weekly playlist with a sprinkle of music that you don't want to listen to shoved in your face. The whole point of what makes the concept exciting in the first place is the idea of there being useful and personalised information between the music that you actually want to listen to.
+I’ll give all of those hosts a listen and pick up traits that could be applied!! Thanks for these, this is super helpful!
+
+Very good point on the 2c thing not making any sense to the American users!! I can probably make this dynamic, if you’re in the US, use F else use C, but brilliant, this is why I love beta testing.
+
+And finally yes, I’m seeing lots of feedback here around playlist integration (custom and other), I’ll retool the app to allow Rad to host not just the dynamic station, but public and private playlists too,
+
+Love it all!
+Hey! I've added Spotify playlist support to the app :) I'm still building out extra features for it but its there in its basic state! Just tap the top-right icon on the player (with the weather emoji in it)
+Most likely but I'll ping back here with more on that one!
+
+And wow...I hadn't fathomed its accessibility benefits. Well now that I'm aware of this, I'll be investing all the time required into ensuring that the next beta is accessibility and all of the player controls are accessible for the visually impaired.
+
+I absolutely will keep up the work, you've added a lot of fuel to my fire here.
+Fair enough! So what should these be? The label values? Did it give you the values before? I can undo the changes pretty much straight away but it would be great if I could fix it to improve the experience for you rather than just making it as it was 😁
+Im glad the article resonated! Im committed to delivering the exact experience you are describing and even if Spotify decides to deprioritise their AI DJ, I’ll continue to build out mine.
+
+If ever you’re sick of Spotify and decide to jump ship to Apple Music, give Rad a shot 🙂
+It should be whatever the label value is supposed to be. For instance, artist name scorpions song name rock you like a hurricane. Something to that effect. I don’t think you need to have the labels say what they are, rather what they contain.￼
+Makes sense! Before this update, what happened, did it give you their values? Or did it just say nothing?
+Before the update, it’s just read the artist name and the song name and other values.
+If you want to try voiceover, have Siri turn it on for you. Your gestures will change with voiceover, and it can be frustrating to somebody new to it.￼￼
+Yes, I tried out changing it in settings and was a little overwhelmed, the Siri tip is a huge help! I've reverted the labels tips to announce their values and have left the button tips intact.
+
+I'm pushing up a minor update now which has these changes, sorry about the issue, still a good way to go on my journey to getting the accessibility thing right but i'll keep at it till its perfect :) Working on your comments re; audio-mixing and transitioning now, hope to have an update for that soon too!
+
+Keep me posted on your mileage with the new update
+With the two emergency updates you just posted, the app crashes after one song. I have submitted the crash report both times.
+You were doing a great job, keep it up man! If I am ever in Ireland, I will look you up and we can have a fucking pint or two or three or four, etc.￼ 🍻🍻🍻🍻
+[Edit: I think I found it thanks to your crash log! working on a fix now]
+
+[Edit 2: Yup I found it thanks to your crash logs! I made a gaff in the code, i've fixed that and pushed an update! Awesome stuff :) ]
+
+Blast! It seems i've introduced a bug, does the same thing happen after subsequent retires?? Thanks for submitting the bug log, i'll get it fixed for the morning and do another push! 
+
+And ooooh you know it, DM me if you are and the pints are on me (Least I can do for you helping me out with the testing!)

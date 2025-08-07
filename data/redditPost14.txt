@@ -1,0 +1,53 @@
+Is DJ really an AI?
+It honestly feels like they are just extracting songs from my playlists? I could listen to my own playlist and get the same result.
+
+When I though Spotify was bringing an AI into the app I thought it would have been able to prompt it for specific requests. IDK if I'm missing something but I just feel like I could get the same out of my shuffle button... 🤷‍♂️
+Comments:
+It doesn't seem like it. I kind of imagined there would be more interaction with the AI to make it more than just a selection of your most played songs...
+>I could listen to my own playlist and get the same result.
+
+Seems that way to me too. If so, it's way overblown as a feature, imho.
+It is. There’s the AI that powers the playlist generation/changes, and then the DJ voice itself.
+
+The voice was created using Sonatic, a synthetic voice creation technology that uses AI to process a few hours worth of samples of someone’s voice, and then applies an algorithm to add intonation, inflection, and projection to create a voice model that sounds like a real person. GPT (the AI that powers ChatGPT) is then used to generate the descriptions/intros based on a scan of your taste profile characteristics and the music about to be played, and feeds that detail to the voice model to read/process.
+
+Otherwise, Spotify uses machine learning (ML) in its recommendation algorithm. They likely use a combo of AI and ML to automate creation of the different vibes/sets the DJ plays.
+Idk it seemed cool to me at first but it seems to just be doing the sane songs again and again
+consist obtainable sleep bike direful birds frightening cause aback money
+
+ *This post was mass deleted and anonymized with [Redact](https://redact.dev)*
+I have been very disappointed with DJ. It plays the same stuff over and over, just stealing from playlists I already have. Then it plays stuff I am completely uninterested in, such as country when I’m a metal rock fan and HATE country. It doesn’t seem to learn from me passing country 100% of the time. It says “ I see you like rock. Let me go a bit out of your boundary…” and plays the shite.
+It's the best way to randomize your playlists. Shuffle has always been broken.
+I'm loving the new DJ function. The only problem I'm having is that in all the documentation it says the DJ will give commentary between songs (which I want) but it only seems to give any input/speaking info when I press the DJ button and it switches to another song.  Anybody else experiencing the same?
+I don't know much about AI technology, but you guys definitely don't, ofcourse all the DJ's songs are going to be based on your playlists. It's looking at the type of music you listen to & how much you deviate. If you're just listening to the same playlists every time, then ofcourse it's going to just play those. Garbage in, garbage out. If you want to explore more music you actually have to put in the work to get the AI to recognize this expectation. Ofcourse it would be better to be able to directly give prompts to the DJ, this is just a more user friendly implementation of AI.
+I think the AI related part comes from the natural-sounding script it generates. They cited that they are using OpenAI tech, which is GPT, which is a language model. It has nothing to do with the reccomendation algorithm.
+Sort of unrelated but I've been listening to a lot of music, particularly heavily instrumental based, that sounds like AI music. Like last time I was listening to orchestra cover songs but a lot of the music didn't sound pleasing to the ear. Today i searched saxophone and found "cover bands" with albums dating back to 2009.
+It's just a "Your Top Mix" with a narrator, really dumb.
+idc what y’all say; hearing this dudes voice in between sets is nice
+really the only reason you’d want to use the feature
+I'm still scratching my head why it played Do the Locomotion by Kylie Minogue!
+It literally would’ve taken 2 seconds to make it take some sort of input/prompt as to what music you want to listen to and then play it. A huge failure imo, call me dramatic but it literally serves nothing.
+Don't know if real AI or fake, what I know is it is the most useless feature ever 🤣
+Yeah, I wish it played me songs that I've not listened to and that I might like. It's just basically my on repeats with a little from other playlists I've made.
+It's a game changer. I love it. Bringing up tunes I had forgot about from 2017
+[deleted]
+Is anything "really an AI" at this stage. They're all basically just prediction engines that spit out a calculated likely result that the algorithm thinks you want.
+
+It certainly isn't a music assistant and the end goal is to encourage you to listen to things that Spotify want you to listen to, when interjecting its own "suggestions".
+Haven't used Spotify in months. Just got back into it and saw the AI and had the same thought. There should definitely be a way to talk to the AI to get requests for a specific type of song/a particular vibe.
+The music selection algorithm has always been a machine learning model. The only thing different about the dj is that it also uses a speech synthesis program to talk in between the songs selected by that existing algorithm. Also, AI is a broad enough term to apply to pretty much any program so companies can just slap the term onto anything without technically lying bc everyone assumes they mean a neural net.
+>I just feel like I could get the same out of my shuffle button...
+
+True, but at least it shuffles the songs so that similar songs are played together, and throws in a few extras every now and then.
+It has played me quite a few songs that ive never heard that were pretty good, but similar to stuff i like. It also just got a sick burn on me by saying “lemmy play some big songs from when you were younger!” And plays hank williams. I dont listen to country lol.
+I like his voice, it’s soothing and sounds like a cool black guy.
+There's a button that can give you "different picks" if you want it to take a different tangent. Seems to give a very different result to me if you're up for a change.
+The in-depth commentary seems to be more rare, but ive heard it mention bands that are on tour, common songwriters on a set, album details ect
+
+edit.... it just gave a detailed intro to Arlo Parks including a mention of her Mercury Prize win
+DJ only talks in-between sets of songs, each having a little theme, when you press the dj button it changes sets. its commentary isn’t anything special though like it says the same thing over and over lol
+The intelligence is when it processes your text & then formats a response, ofcourse it's reasoning. It's also able to adjust responses based on past input. Do you even know what AI is?
+Tbh I had a long drive today and it seemed to get better with time... I do think there is great potential for an AI DJ which you can interact with verbally. I think I just got my hopes up too soon with this current one!
+I hate his voice and his vocab... it's not my vibe
+He kind of reminds me of ice t, which im fine with.
+I see what you did there…

@@ -1,0 +1,3 @@
+Tip: Delete cache to refresh the DJ if it gets repetitive.
+My ai dj played the same 50 or so songs over and over so I deleted my local cache (spotify > account > data settings) and now its finding some great picks
+Comments:

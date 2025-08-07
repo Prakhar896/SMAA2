@@ -1,0 +1,7 @@
+AI DJ "More like this..." button - with link to Spotify Idea
+Hey! This post is simply meant to get some traction and generate some discussion around the idea I posted here:
+
+[https://community.spotify.com/t5/Idea-Submissions/DJ-quot-More-like-this-quot-feature/idi-p/5613932#M177621](https://community.spotify.com/t5/Idea-Submissions/DJ-quot-More-like-this-quot-feature/idi-p/5613932#M177621)
+
+In short, I think an easy low-hanging-fruit for Spotify that would dramatically improve the AI DJ would be to have a feature that allows us to tell the DJ that we like what it's currently playing, and to keep the current mood. We already have a feature to do the opposite, but every once in awhile the DJ hits things just right and you want the mood to continue.
+Comments:

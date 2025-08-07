@@ -1,0 +1,36 @@
+The AI DJ would be a lot cooler if you could actually interact with it
+I like the idea behind the DJ, but instead of it being a glorified Smart
+Shuffle it would be so much better if you could interact through voice or text.
+
+
+Examples:
+
+"Hey DJ, play me some kind of popular Hip Hop tracks from around 2004"
+
+ "I want to listen to some jazz but something with not a lot plays"
+
+"Play me a mix of Country and Ska-Punk"
+
+"Play set of songs from from x, x, and x artist"
+
+"I feeling like watching world burn, play some metal songs with that vibe."
+
+
+These were just off the top of my head but being able to do any of that would be great
+Comments:
+I agree! Hope developers take note and consider adding this feature in future updates.
+I like this. Really, I just need it to not exclusively replay the same music that's already in my "Liked Songs" list that constantly replay with the "Shuffle" anyway. If you could add a slider for percentage of favorites vs percentage of new music, that would be awesome. Being able to direct it to a particular combination of genres would be nice.
+They need to add more DJ's, the current one just plays it way to safe and just plays your liked songs and genric top ten radio. What we need is a daylist DJ plays more underground bands.
+I'd love this feature.
+
+What I really want though is a way to tell my AI DJ that he's been picking absolute bangers the last few songs. Even just a thumbs up or something.
+
+But, yes I agree. I'd love to tell my DJ "Hey, I'm about to clean my house give me something upbeat" or "Hey DJ, I need something to study to" and have him recommend songs.
+You can kind of do this in a round about way. If you discuss with chat gpt what you want to hear and use it as your DJ it can give you a bulk txt list of songs and then you can copy and paste them into a playlist on the Spotify desktop version.
+
+I actually tried a fun prompt the other day "based on all of our conversations and what you know about me guess my top 3 favorite songs" then after we spoke about that for a while I said "now that you know what I like and based on what you know about me from all of our conversations make me a playlist of songs you think I'll like but probably haven't heard before" and of have me a great playlist that for the most part I hadn't heard before.
+I think the inherent underlying problem is that Spotify actually wants to play you specific songs by specific artists to further their own interests. They don't want to make the ai dj  play you rare deep cuts
+
+Also this is not that important, but I'd love to customize the voice.
+
+I got a vibe for you!

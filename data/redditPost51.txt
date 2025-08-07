@@ -1,0 +1,35 @@
+Let's talk about AI Playlists
+I re-sub'd for premium, excited to be able to prompt the AI rather than just use the AI DJ which wasn't all that awesome.  After having a chance we to play around with it this weekend it's really not lived up to what I had hoped to see them roll out. 
+
+Silly, simple stuff like "don't repeat any artists" churned out a playlist containing songs from only one artist.  Ok...how about "I don't want any songs older than the 80s" with the first 5 songs being from the 60s and 70s.  Hmm ok, what if I asked for my playlist to be comprised of 80% artists from my liked songs and 20% new artists.  Result - nothing remotely close.  And on and on.  
+
+So what exactly is the issue here. What data has the AI been trained with and what does it know about ME? Does it have access to my likes and library? Does it understand BPM or tempo? I really never felt like any prompt came out with what I asked for.  
+
+Whats your experience been like? What prompts have worked best for you?
+Comments:
+It's been really bad for me as well and I only tried 3, maybe 4 playlists that I've deleted right away as they were nothing like I requested. It seems to be the general consensus from what I've gathered. I think AI in general is not too smart so it's annoying seeing it pushed in our faces everywhere when it's not even optimal
+Part of the issue is the way you’re phrasing your prompts, it will give you issues with a lot of AI models. You can’t ask AI to draw you a cheeseburger without cheese. You will get a cheeseburger every time. You have to ask it for a hamburger. 
+
+Where you wrote “don’t repeat any artists” the ai isn’t comprehending “dont” and just reads “repeat any artists”
+
+Instead of telling AI what you don’t want it works more seamlessly when you tell it what you *do* want.
+
+“I want a playlist where each song is by a different artist”
+
+“I want a playlist of songs from the 80s and later in time” 
+
+Are likely to net you better results
+“I want a rock playlist that is unfamiliar” or some version of that and it includes sharp dressed man by ZZ Top 🤷‍♂️ I haven’t had any luck with the ai playlist at all
+I did try "make a playlist of older Metallica songs" which did work.  It gave me songs up to the black album.
+I tried it and all I said ok now add more Spanish tracks and it completely redid the whole thing
+Where can you find the ability to prompt the DJ?
+Dude it’s so bad, I’m having all the same problems as you.
+
+I understand it could be a prompting problem, but it needs to be better. I’ll even say “add more songs” and it’ll remove all of them but 3. You can’t expect your customers to be promoting experts, it feels completely underbaked. 
+
+And it seems like “refine playlist” will completely ignore any previous prompts and just start over. SUPER disappointing.
+stop giving people horseshit explanations pls.
+There seem to be certain songs that show up on every query no matter what, in my small sample of trying it
+It's only available for Premium subscribers, and is currently found in the mobile app (not sure if Desktop has it yet - browser does not).  You click on Library then the + button to create a new playlist, and if your account has access to it, you should see New AI Playlist as an option.
+I think The One and Only by Chesney Hawkes has been on every playlist Spotify has ever generated for me, AI or not. I don't like it and always skip it (if I'm paying attention), yet there it is!
+February '25, USA, the Spotify app does not have the AI PLAYLIST option.

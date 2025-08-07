@@ -1,0 +1,18 @@
+Created an Apple Music "My Station" feature using Last.fm API, Spotify API, and a bit of Python.
+I returned to Spotify after using Apple Music for two years. Apple Music is great, but it has several recurring downsides that became frustrating.
+
+Top reasons for moving back to Spotify:
+
+\- Apple Music has no Linux app (Spotify has one)  
+\- AM's limited features in the web version  
+\- "My Station" plays random tracks and never learns my preferences  
+\- Can't sort playlists by recently added in AM  
+\- Infrequent updates (Spotify is up to speed)  
+\- Insufficient API (Spotify has Spicetify, etc.)
+
+The only downside with Spotify is its playlist-based listening method. I often don't know what to listen to. I love the "My Station" concept that Spotify lacks. AI DJ isn't available in my country and reportedly isn't impressive anyway.
+
+So, I took matters into my own hands. I created a playlist that generates itself based on my 10,000 loved tracks on Last.fm. Whenever I want to "Shuffle all songs", I use a smart shuffle on my "My Station" playlist.
+
+Source code and instructions: [https://github.com/ronilaukkarinen/spotify-my-station](https://github.com/ronilaukkarinen/spotify-my-station)
+Comments:
