@@ -28,6 +28,13 @@ for url in video_urls:
         
         if vidCommentCount >= 100:  # limit to 100 comments per video
             break
+    
+    comments.append({
+        'author': 'VIDEO SEPARATOR',
+        'text': '',
+        'time': '',
+        'votes': ''
+    })
     print("Fetched {} comments from {}".format(vidCommentCount, url))
 
 # Save to CSV
