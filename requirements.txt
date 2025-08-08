@@ -15,6 +15,7 @@ exceptiongroup==1.3.0
 executing==2.2.0
 filelock==3.18.0
 fonttools==4.59.0
+gensim==4.3.3
 idna==3.10
 instaloader==4.14.2
 ipykernel==6.30.1
@@ -30,7 +31,7 @@ matplotlib==3.10.5
 matplotlib-inline==0.1.7
 nest-asyncio==1.6.0
 nltk==3.9.1
-numpy==2.2.6
+numpy==1.26.4
 packaging==25.0
 pandas==2.3.1
 parso==0.8.4
@@ -54,7 +55,9 @@ pytz==2025.2
 pyzmq==27.0.1
 regex==2025.7.34
 requests==2.32.4
+scipy==1.13.1
 six==1.17.0
+smart_open==7.3.0.post1
 snscrape==0.7.0.20230622
 soupsieve==2.7
 stack-data==0.6.3
@@ -68,4 +71,5 @@ update-checker==0.18.0
 urllib3==2.5.0
 wcwidth==0.2.13
 websocket-client==1.8.0
+wrapt==1.17.2
 youtube-comment-downloader==0.1.76
